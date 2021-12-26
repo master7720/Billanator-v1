@@ -1,0 +1,11 @@
+requests
+colorama
+bs4
+paramiko
+tldextract
+modules
+strings
+boto3
+queue
+boto3
+smtplib

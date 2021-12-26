@@ -1,0 +1,46 @@
+1a) Download Python For Windows From Here:
+
+https://www.python.org/downloads/windows/
+
+Download "Windows installer"
+
+You can check if you have 32 or 64bit by using CMD:
+
+wmic os get osarchitecture
+
+1b) Download Python For Linux:
+
+sudo apt install python3 python3-dev python3-pip -y
+
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+
+2a) Installing Requirements For Windows:
+
+py -m pip install -r requirements.txt
+
+2b) Installing Requirements For Linux:
+
+pip3 install -r requirements.txt
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+3a) Start Tool In Windows:
+
+py Billanator\ V1.py
+
+3b) Start Tool In Linux:
+
+python3 Billanator\ V1.py
+
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+::: NOTES :::
+
+Backdoors and all removed, decoded and upgraded to python3 by @f4c3r100.
+
+Some tools are old and might not work, i never coded these tool i just decoded the bot!
+
+If you need help Dm me on Telegram https://t.me/f4c3r100 :-)
+
+
